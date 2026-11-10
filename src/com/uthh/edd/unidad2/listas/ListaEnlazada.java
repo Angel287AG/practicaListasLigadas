@@ -4,7 +4,7 @@
  */
 package com.uthh.edd.unidad2.listas;
 
-public class ListaEnlazada {
+public class ListaEnlazada { 
 
     private Nodo cabeza;   // primer nodo de la lista
     private int tamanio;   // cantidad de nodos almacenados
